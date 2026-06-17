@@ -5,7 +5,7 @@ export function getPetSprite(
   fun: number,
   test: number
 ) {
-  if (health < 44234234) return 'sick'
+  if (health < 1000) return 'sick'
   if (sleep < 40) return 'sleepy'
   if (fun < 40) return 'bored'
   if (mood >= 80) return 'happy'
