@@ -24,6 +24,7 @@ import FooterInfo from './components/layout/FooterInfo.vue'
       <MoodChart />
 
     </main>
+    // Test merge conflicts
 
     <MetricsPanel />
 

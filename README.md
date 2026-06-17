@@ -1,1 +1,1 @@
-# Pet Status Dashboard - version from developer B
+# Pet Status Dashboard - version from developer A
