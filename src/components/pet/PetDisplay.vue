@@ -1,9 +1,10 @@
 <template>
   <div class="card">
+    <h2>Pet</h2>
 
-    <h2>Pet Display</h2>
-
-    <p>Sprite here</p>
-
+    <img
+      src="../../assets/pet/normal.png"
+      alt="pet"
+    >
   </div>
 </template>
